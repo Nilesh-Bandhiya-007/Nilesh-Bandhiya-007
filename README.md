@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently working on **large-scale travel ERP, CRM & OTA booking platforms**
 - 👯 I'm looking to collaborate on **React/Next.js open source projects & developer tools**
-- 🌱 I'm currently learning **JavaScript internals, frontend system design & DSA**
+- 🌱 I'm currently learning **Node.js advanced patterns, NestJS & backend architecture**
 - 💬 Ask me about **React.js, Next.js, SSR, frontend architecture & API integrations**
 - ⚡ Fun fact **I migrated 4+ production apps from React SPA to Next.js — the performance jump still surprises clients every time**
 
@@ -43,10 +43,10 @@
 
 ![Nilesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nilesh-Bandhiya-007&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Nilesh-Bandhiya-007&theme=dark&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nilesh-Bandhiya-007&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nilesh-Bandhiya-007&theme=dark&hide_border=false&layout=compact)
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Nilesh-Bandhiya-007&icon=0&color=0)
+![](https://komarev.com/ghpvc/?username=Nilesh-Bandhiya-007&color=blue&style=flat)
